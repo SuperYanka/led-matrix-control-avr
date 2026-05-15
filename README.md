@@ -19,10 +19,30 @@ The project implements a microcontroller system for controlling an 8x8 LED matri
 
 ## Screenshots
 
-![](screenshots/proteus-scheme.png)
+![L](screenshots/L.png)
+![A](screenshots/A.png)
+![1](screenshots/1.png)
+![1](screenshots/1.png)
+
+![I](screenshots/I.png)
+![X](screenshots/X.png)
+![F](screenshots/F.png)
+
+---
+
+![fire_ex](screenshots/fire_ex.png)
+![fire](screenshots/fire.png)
+
+---
+
+![Original mode](screenshots/original_1.png)
+![Original mode](screenshots/original_2.png)
 
 
-![Proteus scheme](screenshots/proteus-scheme.png)
+---
+
+![Proteus scheme](screenshots/proteus-scheme.jng)
+![Block diagram](screenshots/block-diagram.jng)
 
 ## Status
 Educational archived project.
